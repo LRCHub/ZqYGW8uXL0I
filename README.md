@@ -1,0 +1,79 @@
+# Dua Lipa – New Rules
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:08.77] Talkin' in my sleep at night, makin' myself crazy
+[00:13.53] (Out of my mind, out of my mind)
+[00:16.71] Wrote it down and read it out, hopin' it would save me
+[00:20.75] (Too many times, too many times)
+[00:24.54] My love, he makes me feel like nobody else, nobody else
+[00:32.29] But my love, he doesn't love me, so I tell myself, I tell myself
+[01:04.29] 
+[00:41.25] One, don't pick up the phone
+[00:43.30] You know he's only callin' 'cause he's drunk and alone
+[00:45.83] Two, don't let him in
+[00:47.29] You'll have to kick him out again
+[00:49.84] Three, don't be his friend
+[00:51.58] You know you're gonna wake up in his bed in the morning
+[00:54.56] And if you're under him, you ain't gettin' over him
+[01:20.06] 
+[00:58.53] I got new rules, I count 'em
+[01:02.88] (I got new rules, I count 'em)
+[01:06.67] (I gotta tell them to myself)
+[01:10.85] I got new rules, I count 'em
+[01:14.17] I gotta tell them to myself
+[01:27.67] 
+[01:16.86] I keep pushin' forwards, but he keeps pullin' me backwards
+[01:21.16] (Nowhere to turn, no way)
+[01:23.46] (Nowhere to turn, no)
+[01:25.22] Now I'm standin' back from it, I finally see the pattern
+[01:29.29] (I never learn, I never learn)
+[01:32.93] But my love, he doesn't love me, so I tell myself, I tell myself
+[01:39.76] I do, I do, I do
+[01:47.76] 
+[01:41.45] One, don't pick up the phone
+[01:43.28] You know he's only callin' 'cause he's drunk and alone
+[01:45.53] Two, don't let him in
+[01:47.52] You'll have to kick him out again
+[01:49.94] Three, don't be his friend
+[01:51.91] You know you're gonna wake up in his bed in the morning
+[01:54.28] And if you're under him, you ain't gettin' over him
+[02:19.78] 
+[01:58.57] I got new rules, I count 'em
+[02:02.83] (I got new rules, I count 'em)
+[02:06.84] I gotta tell them to myself
+[02:10.22] I got new rules, I count 'em
+[02:14.22] I gotta tell them to myself
+[02:27.72] 
+[02:17.09] Practice makes perfect
+[02:18.52] I'm still tryna learn it by heart (I got new rules, I count 'em)
+[02:24.83] Eat, sleep, and breathe it
+[02:26.58] Rehearse and repeat it, 'cause I... (I got new)
+[02:50.08] 
+[02:33.05] One, don't pick up the phone
+[02:35.03] You know he's only callin' 'cause he's drunk and alone
+[02:37.33] Two, don't let him in
+[02:39.39] You'll have to kick him out again
+[02:41.69] Three, don't be his friend
+[02:43.30] You know you're gonna wake up in his bed in the morning
+[02:46.04] And if you're under him, you ain't gettin' over him
+[03:11.54] 
+[02:50.37] I got new rules, I count 'em
+[02:53.96] (I got new rules, I count 'em)
+[02:56.49] (Whoa-ooh, whoa-ooh, whoa)
+[02:58.43] I gotta tell them to myself
+[03:02.08] I got new rules, I count 'em
+[03:04.49] (Baby, you know I count 'em)
+[03:06.26] I gotta tell them to myself
+[03:19.76] 
+[03:08.73] Don't let him in, don't let him in
+[03:10.34] Don't, don't, don't, don't...
+[03:12.34] Don't let him in, don't let him in
+[03:14.37] Don't, don't, don't, don't...
+[03:16.35] Don't let him in, don't let him in
+[03:18.39] Don't, don't, don't, don't...
+[03:20.69] Don't be his friend, don't be his friend
+[03:22.33] Don't, don't, don't, don't...
+[03:23.87] You're gettin' over him
+```
