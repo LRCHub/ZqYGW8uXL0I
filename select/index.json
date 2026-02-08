@@ -1,0 +1,304 @@
+{
+  "version": 1,
+  "base_track": "New Rules",
+  "base_artist": "Dua Lipa",
+  "createdAt": "2026-02-08T05:43:21.739291Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "New Rules",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Robyn Adele Anderson",
+      "has_synced": false,
+      "path": "select/01_New_Rules_Scott_Bradlee's_Postmodern_Jukebox_feat._Robyn_Adele_Anderson.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "New Rules",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": false,
+      "path": "select/02_New_Rules_Scott_Bradlee's_Postmodern_Jukebox.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "New Rules - Karaoke Version",
+      "artist": "Scott Bradlee & Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/03_New_Rules_-_Karaoke_Version_Scott_Bradlee_&_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "New Rules (Karaoke Version)",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/04_New_Rules_(Karaoke_Version)_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "New Rules",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/05_New_Rules_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "New Rules - Live",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/06_New_Rules_-_Live_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "New Rules",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/07_New_Rules_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "New Rules (Alison Wonderland Remix)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/08_New_Rules_(Alison_Wonderland_Remix)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "New Rules (Alison Wonderland remix)",
+      "artist": "Dua Lipa",
+      "has_synced": false,
+      "path": "select/09_New_Rules_(Alison_Wonderland_remix)_Dua_Lipa.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "New Rules (Freedo Remix)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/10_New_Rules_(Freedo_Remix)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "New Rules (Initial Talk remix)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/11_New_Rules_(Initial_Talk_remix)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "New Rules (KREAM Remix)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/12_New_Rules_(KREAM_Remix)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "New Rules (KREAM remix)",
+      "artist": "Dua Lipa",
+      "has_synced": false,
+      "path": "select/13_New_Rules_(KREAM_remix)_Dua_Lipa.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "New Rules (MRK Club Mix)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/14_New_Rules_(MRK_Club_Mix)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "New Rules (SG Lewis Remix)",
+      "artist": "Dua Lipa feat. SG Lewis",
+      "has_synced": true,
+      "path": "select/15_New_Rules_(SG_Lewis_Remix)_Dua_Lipa_feat._SG_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "New Rules (SG Lewis remix)",
+      "artist": "Dua Lipa",
+      "has_synced": false,
+      "path": "select/16_New_Rules_(SG_Lewis_remix)_Dua_Lipa.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "New Rules (Acoustic)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/17_New_Rules_(Acoustic)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "New Rules (Piano Acoustic) [Live]",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/18_New_Rules_(Piano_Acoustic)_[Live]_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Englishman In New York",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/19_Englishman_In_New_York_Sting.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "New Old Trucks (feat. Dierks Bentley)",
+      "artist": "James Barker Band feat. Dierks Bentley",
+      "has_synced": true,
+      "path": "select/20_New_Old_Trucks_(feat._Dierks_Bentley)_James_Barker_Band_feat._Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "New Old Trucks (feat. Dierks Bentley)",
+      "artist": "James Barker Band",
+      "has_synced": true,
+      "path": "select/21_New_Old_Trucks_(feat._Dierks_Bentley)_James_Barker_Band.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "New Truck",
+      "artist": "Dylan Scott",
+      "has_synced": true,
+      "path": "select/22_New_Truck_Dylan_Scott.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "New Truck",
+      "artist": "Dylan Scott",
+      "has_synced": true,
+      "path": "select/23_New_Truck_Dylan_Scott.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "A New World",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/24_A_New_World_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "A New World",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/25_A_New_World_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "New Zealand",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/26_New_Zealand_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Back Where I Come From - New Recording with Kenny's Band",
+      "artist": "Kenny Chesney",
+      "has_synced": false,
+      "path": "select/27_Back_Where_I_Come_From_-_New_Recording_with_Kenny's_Band_Kenny_Chesney.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Back Where I Come From (New Recording with Kenny's Band)",
+      "artist": "Kenny Chesney",
+      "has_synced": false,
+      "path": "select/28_Back_Where_I_Come_From_(New_Recording_with_Kenny's_Band)_Kenny_Chesney.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Brand New Buzz",
+      "artist": "Big & Rich",
+      "has_synced": false,
+      "path": "select/29_Brand_New_Buzz_Big_&_Rich.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Brand New Girlfriend",
+      "artist": "Steve Holy",
+      "has_synced": true,
+      "path": "select/30_Brand_New_Girlfriend_Steve_Holy.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Brand New Man",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/31_Brand_New_Man_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Brand New Man",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/32_Brand_New_Man_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Brand New Man (with Luke Combs)",
+      "artist": "Brooks & Dunn feat. Luke Combs",
+      "has_synced": true,
+      "path": "select/33_Brand_New_Man_(with_Luke_Combs)_Brooks_&_Dunn_feat._Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Brand New Man (with Luke Combs)",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/34_Brand_New_Man_(with_Luke_Combs)_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "City of New Orleans",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/35_City_of_New_Orleans_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "City Of New Orleans (Album Version)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/36_City_Of_New_Orleans_(Album_Version)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "New Rules",
+      "artist": "Dua Lipa",
+      "has_synced": false,
+      "path": "select/pl_01_New_Rules_Dua_Lipa.txt"
+    }
+  ]
+}
